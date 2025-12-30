@@ -1,5 +1,5 @@
 -- DDL For My Tables
-{# to be made in snowflake #}
+{# to be made in snowflake with database name as AIRBNB and schema name as staging #}
 CREATE OR REPLACE TABLE HOSTS (
     host_id NUMBER,
     host_name STRING,
